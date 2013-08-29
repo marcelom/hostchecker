@@ -1,637 +1,857 @@
 goz-srtr-vlan487.Stanford.EDU PTR
-171.64.144.1 ipv4
-00:10:DB:FF:80:80 mac
+ADDR= 171.64.144.1 ipv4
+ADDR= 00:10:DB:FF:80:80 mac
 bonair-144net-01.Stanford.EDU PTR
-171.64.144.10 ipv4
-00:19:B9:AF:25:01 mac
+ADDR= 171.64.144.10 ipv4
+ADDR= 00:19:B9:AF:25:01 mac
 fac-projecto-dev.Stanford.EDU PTR
-171.64.144.12 ipv4
-00:0C:29:D0:40:26 mac
+ADDR= 171.64.144.12 ipv4
+ADDR= 00:0C:29:D0:40:26 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 Form1record.Stanford.EDU PTR
-171.64.144.14 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.14 ipv4
+ADDR= 00:50:56:AD:63:3A mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 res-fuho.Stanford.EDU PTR
-171.64.144.15 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.15 ipv4
+ADDR= 00:50:56:AD:63:3A mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 cpm-webserver.Stanford.EDU PTR
-171.64.144.17 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.17 ipv4
+ADDR= 00:50:56:AD:63:3A mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 form1-2005.Stanford.EDU PTR
-171.64.144.20 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.20 ipv4
+ADDR= 00:50:56:AD:63:3A mac
 lbre-bacula.Stanford.EDU PTR
-171.64.144.21 ipv4
-00:0C:29:43:8D:6B mac
+ADDR= 171.64.144.21 ipv4
+ADDR= 00:0C:29:43:8D:6B mac
 lbre-arcgis.Stanford.EDU PTR
-171.64.144.22 ipv4
-00:50:56:AE:00:08 mac
+ADDR= 171.64.144.22 ipv4
+ADDR= 00:50:56:AE:00:08 mac
 CPM-FTP.Stanford.EDU PTR
-171.64.144.23 ipv4
-00:50:56:AD:35:D4 mac
+ADDR= 171.64.144.23 ipv4
+ADDR= 00:50:56:AD:35:D4 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 fac-projecto.Stanford.EDU PTR
-171.64.144.24 ipv4
-00:50:56:AD:2E:44 mac
+ADDR= 171.64.144.24 ipv4
+ADDR= 00:50:56:AD:2E:44 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 rep60.Stanford.EDU PTR
-171.64.144.25 ipv4
-00:50:56:AD:5E:FF mac
+ADDR= 171.64.144.25 ipv4
+ADDR= 00:50:56:AD:5E:FF mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 DPMMSIIS.Stanford.EDU PTR
-171.64.144.26 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.26 ipv4
+ADDR= 00:50:56:AD:63:3A mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 DPM-IIS08dev.Stanford.EDU PTR
-171.64.144.27 ipv4
-00:50:56:AD:7B:79 mac
+ADDR= 171.64.144.27 ipv4
+ADDR= 00:50:56:AD:7B:79 mac
+OS= Microsoft Windows Vista 100
 Benchmark-dev.Stanford.EDU PTR
-171.64.144.28 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.28 ipv4
+ADDR= 00:50:56:AD:63:3A mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 benchmark.Stanford.EDU PTR
-171.64.144.29 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.29 ipv4
+ADDR= 00:50:56:AD:63:3A mac
 FPA.Stanford.EDU PTR
-171.64.144.30 ipv4
-00:50:56:AD:63:3A mac
+ADDR= 171.64.144.30 ipv4
+ADDR= 00:50:56:AD:63:3A mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 nagios-porter.Stanford.EDU PTR
-171.64.144.35 ipv4
+ADDR= 171.64.144.35 ipv4
+OS= Linux 2.6.19 - 2.6.20 100
 lbre-iis-1.Stanford.EDU PTR
-171.64.144.36 ipv4
-00:50:56:AE:00:0C mac
+ADDR= 171.64.144.36 ipv4
+ADDR= 00:50:56:AE:00:0C mac
+OS= Microsoft Windows Vista 100
+OS= Microsoft Windows Vista Home Basic 100
 fac-web1-dev.Stanford.EDU PTR
-171.64.144.37 ipv4
-00:50:56:AD:21:58 mac
+ADDR= 171.64.144.37 ipv4
+ADDR= 00:50:56:AD:21:58 mac
 lbre-apps-dev.Stanford.EDU PTR
-171.64.144.38 ipv4
-00:50:56:AD:21:58 mac
+ADDR= 171.64.144.38 ipv4
+ADDR= 00:50:56:AD:21:58 mac
 lbre-internal-dev.Stanford.EDU PTR
-171.64.144.39 ipv4
-00:50:56:AD:21:58 mac
+ADDR= 171.64.144.39 ipv4
+ADDR= 00:50:56:AD:21:58 mac
 lbre-fme.Stanford.EDU PTR
-171.64.144.40 ipv4
-00:50:56:AE:00:00 mac
+ADDR= 171.64.144.40 ipv4
+ADDR= 00:50:56:AE:00:00 mac
+OS= Microsoft Windows 2000 SP3/SP4 or Windows XP SP1/SP2 100
 lbre-chef.Stanford.EDU PTR
-171.64.144.41 ipv4
-00:0C:29:55:EE:4F mac
+ADDR= 171.64.144.41 ipv4
+ADDR= 00:0C:29:55:EE:4F mac
 fac-webdev.Stanford.EDU PTR
-171.64.144.44 ipv4
-00:14:22:FE:B4:90 mac
+ADDR= 171.64.144.44 ipv4
+ADDR= 00:14:22:FE:B4:90 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-internal-temp.Stanford.EDU PTR
-171.64.144.45 ipv4
-00:14:22:FE:B4:90 mac
+ADDR= 171.64.144.45 ipv4
+ADDR= 00:14:22:FE:B4:90 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-internal.Stanford.EDU PTR
-171.64.144.46 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 171.64.144.46 ipv4
+ADDR= 00:50:56:AD:48:95 mac
+OS= Linux 2.6.9 - 2.6.26 100
 bondata.Stanford.EDU PTR
-171.64.144.50 ipv4
-60:EB:69:D2:AC:29 mac
+ADDR= 171.64.144.50 ipv4
+ADDR= 60:EB:69:D2:AC:29 mac
+OS= Linux 2.6.17 - 2.6.22 100
 fac-fprd1.Stanford.EDU PTR
-171.64.144.51 ipv4
-60:EB:69:D2:AC:29 mac
+ADDR= 171.64.144.51 ipv4
+ADDR= 60:EB:69:D2:AC:29 mac
+OS= Linux 2.6.17 - 2.6.22 100
 bondata4.Stanford.EDU PTR
-171.64.144.52 ipv4
-00:14:22:75:09:08 mac
+ADDR= 171.64.144.52 ipv4
+ADDR= 00:14:22:75:09:08 mac
+OS= Linux 2.6.17 - 2.6.22 100
 bondata2.Stanford.EDU PTR
-171.64.144.53 ipv4
-60:EB:69:DC:3D:29 mac
+ADDR= 171.64.144.53 ipv4
+ADDR= 60:EB:69:DC:3D:29 mac
+OS= Linux 2.6.17 - 2.6.22 100
 bondata5.Stanford.EDU PTR
-171.64.144.54 ipv4
-00:21:9B:4F:2A:E4 mac
+ADDR= 171.64.144.54 ipv4
+ADDR= 00:21:9B:4F:2A:E4 mac
+OS= Linux 2.6.17 - 2.6.22 100
 bondata1.Stanford.EDU PTR
-171.64.144.55 ipv4
-00:13:72:66:D9:00 mac
+ADDR= 171.64.144.55 ipv4
+ADDR= 00:13:72:66:D9:00 mac
+OS= Linux 2.6.17 - 2.6.22 100
 bonapp3.Stanford.EDU PTR
-171.64.144.56 ipv4
-00:50:56:AD:6C:A2 mac
+ADDR= 171.64.144.56 ipv4
+ADDR= 00:50:56:AD:6C:A2 mac
+OS= Linux 2.6.9 - 2.6.25 100
 bonapp4.Stanford.EDU PTR
-171.64.144.57 ipv4
-00:50:56:AD:69:20 mac
+ADDR= 171.64.144.57 ipv4
+ADDR= 00:50:56:AD:69:20 mac
+OS= Linux 2.6.9 - 2.6.25 100
 bonapp8.Stanford.EDU PTR
-171.64.144.58 ipv4
-00:14:22:FE:B4:94 mac
+ADDR= 171.64.144.58 ipv4
+ADDR= 00:14:22:FE:B4:94 mac
+OS= Linux 2.6.9 - 2.6.25 100
 bonapp9.Stanford.EDU PTR
-171.64.144.59 ipv4
-00:14:22:FE:B4:A2 mac
+ADDR= 171.64.144.59 ipv4
+ADDR= 00:14:22:FE:B4:A2 mac
+OS= Linux 2.6.9 - 2.6.25 100
 custom-maps-OLD.Stanford.EDU PTR
-171.64.144.60 ipv4
-00:50:56:AE:00:08 mac
+ADDR= 171.64.144.60 ipv4
+ADDR= 00:50:56:AE:00:08 mac
 fops-cf-dev.Stanford.EDU PTR
-171.64.144.61 ipv4
-00:50:56:AD:7C:78 mac
+ADDR= 171.64.144.61 ipv4
+ADDR= 00:50:56:AD:7C:78 mac
+OS= Linux 2.6.9 - 2.6.15 (x86) 100
 lbre-mirror01.Stanford.EDU PTR
-171.64.144.62 ipv4
-00:25:90:60:11:5A mac
+ADDR= 171.64.144.62 ipv4
+ADDR= 00:25:90:60:11:5A mac
 lbre-cf1-dev.Stanford.EDU PTR
-171.64.144.63 ipv4
-00:50:56:AE:00:14 mac
+ADDR= 171.64.144.63 ipv4
+ADDR= 00:50:56:AE:00:14 mac
+OS= Linux 2.6.17 - 2.6.22 100
 fac-brio.Stanford.EDU PTR
-171.64.144.69 ipv4
-00:50:56:AD:06:AB mac
+ADDR= 171.64.144.69 ipv4
+ADDR= 00:50:56:AD:06:AB mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 fac-archive.Stanford.EDU PTR
-171.64.144.70 ipv4
-00:15:C5:87:6B:5E mac
+ADDR= 171.64.144.70 ipv4
+ADDR= 00:15:C5:87:6B:5E mac
+OS= Microsoft Windows Vista 92
+OS= Microsoft Windows Vista Home Basic 91
+OS= Microsoft Windows Vista Home Premium 87
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 86
+OS= Microsoft Windows Server 2008 Beta 3 85
 fac-mapguide.Stanford.EDU PTR
-171.64.144.71 ipv4
-00:50:56:AD:10:5C mac
+ADDR= 171.64.144.71 ipv4
+ADDR= 00:50:56:AD:10:5C mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 mapagent.Stanford.EDU PTR
-171.64.144.72 ipv4
-00:50:56:AD:10:5C mac
+ADDR= 171.64.144.72 ipv4
+ADDR= 00:50:56:AD:10:5C mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 fac-web1.Stanford.EDU PTR
-171.64.144.73 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 171.64.144.73 ipv4
+ADDR= 00:50:56:AD:48:95 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-apps.Stanford.EDU PTR
-171.64.144.74 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 171.64.144.74 ipv4
+ADDR= 00:50:56:AD:48:95 mac
+OS= Linux 2.6.9 - 2.6.26 100
 fac-utildb.Stanford.EDU PTR
-171.64.144.75 ipv4
-00:1C:23:C5:AF:86 mac
+ADDR= 171.64.144.75 ipv4
+ADDR= 00:1C:23:C5:AF:86 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 scadaweb.Stanford.EDU PTR
-171.64.144.76 ipv4
-A4:BA:DB:38:63:39 mac
+ADDR= 171.64.144.76 ipv4
+ADDR= A4:BA:DB:38:63:39 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 fac-dvopc.Stanford.EDU PTR
-171.64.144.77 ipv4
-00:22:19:21:66:27 mac
+ADDR= 171.64.144.77 ipv4
+ADDR= 00:22:19:21:66:27 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-iis1-dev.Stanford.EDU PTR
-171.64.144.78 ipv4
-00:50:56:AE:00:04 mac
+ADDR= 171.64.144.78 ipv4
+ADDR= 00:50:56:AE:00:04 mac
+OS= Microsoft Windows Vista Home Basic 100
 lbre-ganglia.Stanford.EDU PTR
-171.64.144.79 ipv4
-00:50:56:AE:00:02 mac
+ADDR= 171.64.144.79 ipv4
+ADDR= 00:50:56:AE:00:02 mac
 lbre-pagegate.Stanford.EDU PTR
-171.64.144.80 ipv4
-90:B1:1C:17:F5:F4 mac
+ADDR= 171.64.144.80 ipv4
+ADDR= 90:B1:1C:17:F5:F4 mac
+OS= Microsoft Windows Vista 100
 lbre-pserver.Stanford.EDU PTR
-171.64.144.81 ipv4
-00:50:56:AE:00:13 mac
+ADDR= 171.64.144.81 ipv4
+ADDR= 00:50:56:AE:00:13 mac
+OS= Microsoft Windows Vista 100
 DPM-SQL.Stanford.EDU PTR
-171.64.144.82 ipv4
-00:50:56:AD:56:B0 mac
+ADDR= 171.64.144.82 ipv4
+ADDR= 00:50:56:AD:56:B0 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 DPM-SQL08dev.Stanford.EDU PTR
-171.64.144.83 ipv4
-00:50:56:AD:4D:30 mac
+ADDR= 171.64.144.83 ipv4
+ADDR= 00:50:56:AD:4D:30 mac
+OS= Microsoft Windows Vista 100
 maps-grsdt.Stanford.EDU PTR
-171.64.144.84 ipv4
-00:21:9B:2F:C3:44 mac
+ADDR= 171.64.144.84 ipv4
+ADDR= 00:21:9B:2F:C3:44 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 fac-sotiserver.Stanford.EDU PTR
-171.64.144.86 ipv4
-00:50:56:AD:04:46 mac
+ADDR= 171.64.144.86 ipv4
+ADDR= 00:50:56:AD:04:46 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-rover.Stanford.EDU PTR
-171.64.144.87 ipv4
-00:50:56:AE:00:06 mac
+ADDR= 171.64.144.87 ipv4
+ADDR= 00:50:56:AE:00:06 mac
+OS= Microsoft Windows Vista 100
 fac-hvac.Stanford.EDU PTR
-171.64.144.89 ipv4
-00:50:56:AD:7A:FB mac
+ADDR= 171.64.144.89 ipv4
+ADDR= 00:50:56:AD:7A:FB mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 fac-camserver.Stanford.EDU PTR
-171.64.144.90 ipv4
-00:13:72:28:C3:D2 mac
+ADDR= 171.64.144.90 ipv4
+ADDR= 00:13:72:28:C3:D2 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-mge.Stanford.EDU PTR
-171.64.144.91 ipv4
-00:50:56:AE:00:17 mac
+ADDR= 171.64.144.91 ipv4
+ADDR= 00:50:56:AE:00:17 mac
 lbre-db01.Stanford.EDU PTR
-171.64.144.93 ipv4
-00:50:56:AE:00:0E mac
+ADDR= 171.64.144.93 ipv4
+ADDR= 00:50:56:AE:00:0E mac
 lbrehr.Stanford.EDU PTR
-171.64.144.94 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 171.64.144.94 ipv4
+ADDR= 00:50:56:AD:48:95 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-syslog.Stanford.EDU PTR
-171.64.144.96 ipv4
-00:50:56:AE:00:1A mac
+ADDR= 171.64.144.96 ipv4
+ADDR= 00:50:56:AE:00:1A mac
 lbre-dbvip.Stanford.EDU PTR
-171.64.144.97 ipv4
-00:50:56:AE:00:1D mac
+ADDR= 171.64.144.97 ipv4
+ADDR= 00:50:56:AE:00:1D mac
 fac-fs2.Stanford.EDU PTR
-171.64.144.98 ipv4
-00:18:8B:E6:30:12 mac
+ADDR= 171.64.144.98 ipv4
+ADDR= 00:18:8B:E6:30:12 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-quickbooks.Stanford.EDU PTR
-171.64.144.101 ipv4
-00:50:56:AE:00:2C mac
+ADDR= 171.64.144.101 ipv4
+ADDR= 00:50:56:AE:00:2C mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-haproxy.Stanford.EDU PTR
-171.64.144.102 ipv4
-00:50:56:AE:00:08 mac
+ADDR= 171.64.144.102 ipv4
+ADDR= 00:50:56:AE:00:08 mac
 lbre-mge-dev.Stanford.EDU PTR
-171.64.144.103 ipv4
-00:50:56:AE:00:21 mac
+ADDR= 171.64.144.103 ipv4
+ADDR= 00:50:56:AE:00:21 mac
+OS= Linux 2.6.17 - 2.6.22 100
 lbre-mge-test.Stanford.EDU PTR
-171.64.144.104 ipv4
-00:50:56:AE:00:2B mac
+ADDR= 171.64.144.104 ipv4
+ADDR= 00:50:56:AE:00:2B mac
 lbre-cf1.Stanford.EDU PTR
-171.64.144.107 ipv4
-00:50:56:AE:00:15 mac
+ADDR= 171.64.144.107 ipv4
+ADDR= 00:50:56:AE:00:15 mac
 PATS-AVAILDB.Stanford.EDU PTR
-171.64.144.108 ipv4
-00:13:72:63:BB:99 mac
+ADDR= 171.64.144.108 ipv4
+ADDR= 00:13:72:63:BB:99 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 pats-avlserver.Stanford.EDU PTR
-171.64.144.109 ipv4
-00:0B:DB:E2:AE:C8 mac
+ADDR= 171.64.144.109 ipv4
+ADDR= 00:0B:DB:E2:AE:C8 mac
+OS= Microsoft Windows 2000 Server SP4 100
 fac-xgate.Stanford.EDU PTR
-171.64.144.110 ipv4
-00:0B:DB:E2:AE:C0 mac
+ADDR= 171.64.144.110 ipv4
+ADDR= 00:0B:DB:E2:AE:C0 mac
+OS= Microsoft Windows 2000 Server SP4 100
 lbre-fuelmaster.Stanford.EDU PTR
-171.64.144.111 ipv4
-00:50:56:AE:00:18 mac
+ADDR= 171.64.144.111 ipv4
+ADDR= 00:50:56:AE:00:18 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 fac-pserver.Stanford.EDU PTR
-171.64.144.114 ipv4
-00:50:56:AD:2B:83 mac
+ADDR= 171.64.144.114 ipv4
+ADDR= 00:50:56:AD:2B:83 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-dfs1.Stanford.EDU PTR
-171.64.144.115 ipv4
-00:50:56:AE:00:1F mac
+ADDR= 171.64.144.115 ipv4
+ADDR= 00:50:56:AE:00:1F mac
+OS= Microsoft Windows Vista 100
 lbre-dfs2.Stanford.EDU PTR
-171.64.144.116 ipv4
-00:50:56:AE:00:2D mac
+ADDR= 171.64.144.116 ipv4
+ADDR= 00:50:56:AE:00:2D mac
+OS= Microsoft Windows Vista Home Basic 98
+OS= Microsoft Windows Vista 97
+OS= Microsoft Windows Vista Home Premium 93
 lbre-cf2.Stanford.EDU PTR
-171.64.144.118 ipv4
-00:50:56:AE:00:24 mac
+ADDR= 171.64.144.118 ipv4
+ADDR= 00:50:56:AE:00:24 mac
 fac-harvester.Stanford.EDU PTR
-171.64.144.119 ipv4
-08:00:20:82:65:90 mac
+ADDR= 171.64.144.119 ipv4
+ADDR= 08:00:20:82:65:90 mac
+OS= Sun Solaris 8 (SPARC) 100
 lbre-basemap.Stanford.EDU PTR
-171.64.144.120 ipv4
-00:50:56:AE:00:08 mac
+ADDR= 171.64.144.120 ipv4
+ADDR= 00:50:56:AE:00:08 mac
 lbre-vdr01.Stanford.EDU PTR
-171.64.144.122 ipv4
-00:50:56:AE:00:0D mac
+ADDR= 171.64.144.122 ipv4
+ADDR= 00:50:56:AE:00:0D mac
+OS= Linux 2.6.17 - 2.6.22 100
+OS= Linux 2.6.23 100
 fac-deltavweb.Stanford.EDU PTR
-171.64.144.124 ipv4
-00:22:19:21:66:09 mac
+ADDR= 171.64.144.124 ipv4
+ADDR= 00:22:19:21:66:09 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-pats-repo.Stanford.EDU PTR
-171.64.144.127 ipv4
-00:50:56:AE:00:33 mac
+ADDR= 171.64.144.127 ipv4
+ADDR= 00:50:56:AE:00:33 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-vc01.Stanford.EDU PTR
-171.64.144.130 ipv4
-00:0C:29:E6:B7:F2 mac
+ADDR= 171.64.144.130 ipv4
+ADDR= 00:0C:29:E6:B7:F2 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 ISES.Stanford.EDU PTR
-171.64.144.133 ipv4
-00:06:5B:8C:72:1D mac
+ADDR= 171.64.144.133 ipv4
+ADDR= 00:06:5B:8C:72:1D mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 bonair.Stanford.EDU PTR
-171.64.144.134 ipv4
-00:50:56:AD:64:72 mac
+ADDR= 171.64.144.134 ipv4
+ADDR= 00:50:56:AD:64:72 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-arcgis-dev.Stanford.EDU PTR
-171.64.144.135 ipv4
-00:50:56:AE:00:08 mac
+ADDR= 171.64.144.135 ipv4
+ADDR= 00:50:56:AE:00:08 mac
 lbre-krbtest1.Stanford.EDU PTR
-171.64.144.136 ipv4
-00:50:56:AE:00:31 mac
+ADDR= 171.64.144.136 ipv4
+ADDR= 00:50:56:AE:00:31 mac
+OS= Linux 2.6.22 92
+OS= Linux 2.6.17 - 2.6.23 88
+OS= Linux 2.6.15 - 2.6.20 87
+OS= Linux 2.6.21 87
+OS= Linux 2.6.20 86
+OS= Linux 2.6.20 (Ubuntu, x86_64) 86
+OS= Linux 2.6.23 86
+OS= Vodavi XTS-IP PBX 85
 fops-cf.Stanford.EDU PTR
-171.64.144.137 ipv4
-00:50:56:AD:13:85 mac
+ADDR= 171.64.144.137 ipv4
+ADDR= 00:50:56:AD:13:85 mac
+OS= Linux 2.6.9 - 2.6.15 (x86) 100
 lbre-krbtest2.Stanford.EDU PTR
-171.64.144.138 ipv4
-00:50:56:AE:00:30 mac
+ADDR= 171.64.144.138 ipv4
+ADDR= 00:50:56:AE:00:30 mac
 lbre-archive.Stanford.EDU PTR
-171.64.144.139 ipv4
-00:1C:23:B8:15:E8 mac
+ADDR= 171.64.144.139 ipv4
+ADDR= 00:1C:23:B8:15:E8 mac
 lbre-krbtest3.Stanford.EDU PTR
-171.64.144.140 ipv4
-00:50:56:AE:00:0B mac
+ADDR= 171.64.144.140 ipv4
+ADDR= 00:50:56:AE:00:0B mac
+OS= Linux 2.6.22 87
+OS= Linux 2.6.9 - 2.6.19 87
+OS= OpenWrt 7.09 (Linux 2.6.22) 85
+OS= Vodavi XTS-IP PBX 85
 fac-web3.Stanford.EDU PTR
-171.64.144.142 ipv4
-00:50:56:AD:17:4D mac
+ADDR= 171.64.144.142 ipv4
+ADDR= 00:50:56:AD:17:4D mac
+OS= Linux 2.6.9 - 2.6.26 100
 hannahousetours.Stanford.EDU PTR
-171.64.144.143 ipv4
-00:50:56:AD:17:4D mac
+ADDR= 171.64.144.143 ipv4
+ADDR= 00:50:56:AD:17:4D mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-xc2.Stanford.EDU PTR
-171.64.144.144 ipv4
-00:50:56:AE:00:34 mac
+ADDR= 171.64.144.144 ipv4
+ADDR= 00:50:56:AE:00:34 mac
+OS= Microsoft Windows Vista 100
 hannahousetours-dev.Stanford.EDU PTR
-171.64.144.145 ipv4
-00:50:56:AD:1C:A8 mac
+ADDR= 171.64.144.145 ipv4
+ADDR= 00:50:56:AD:1C:A8 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-oraapp-dev.Stanford.EDU PTR
-171.64.144.146 ipv4
-00:50:56:AE:00:16 mac
+ADDR= 171.64.144.146 ipv4
+ADDR= 00:50:56:AE:00:16 mac
 lbre-puppet01.Stanford.EDU PTR
-171.64.144.147 ipv4
-00:50:56:AE:00:0A mac
+ADDR= 171.64.144.147 ipv4
+ADDR= 00:50:56:AE:00:0A mac
 lbre-sem-hist1.Stanford.EDU PTR
-171.64.144.149 ipv4
-90:B1:1C:41:82:72 mac
+ADDR= 171.64.144.149 ipv4
+ADDR= 90:B1:1C:41:82:72 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 tmpsw02.Stanford.EDU PTR
-171.64.144.151 ipv4
-00:15:C5:E0:9B:4B mac
+ADDR= 171.64.144.151 ipv4
+ADDR= 00:15:C5:E0:9B:4B mac
+OS= SMC 8024L2 switch 96
+OS= Netgear ProSafe GS724T switch 89
 lbre-4d1.Stanford.EDU PTR
-171.64.144.153 ipv4
-90:B1:1C:09:40:AB mac
+ADDR= 171.64.144.153 ipv4
+ADDR= 90:B1:1C:09:40:AB mac
+OS= Microsoft Windows Vista 100
+OS= Microsoft Windows Vista Home Basic 100
 lbre-db02.Stanford.EDU PTR
-171.64.144.154 ipv4
-00:50:56:AE:00:1C mac
+ADDR= 171.64.144.154 ipv4
+ADDR= 00:50:56:AE:00:1C mac
+OS= Linux 2.6.18 - 2.6.24 90
+OS= Linux 2.6.21 (Arch Linux 0.8, x86) 90
+OS= Linux 2.6.18-8.el5 (Red Hat Enterprise Linux 5) 89
+OS= Linux 2.6.22 89
+OS= Linux 2.6.23 89
+OS= OpenWrt 7.09 (Linux 2.6.22) 89
+OS= OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) 88
+OS= Linux 2.6.18.8 (openSUSE 10.2, SMP) 87
+OS= Linux 2.6.9 - 2.6.19 86
+OS= D-Link DSA-3100 or Linksys WRT54GL (DD-WRT v23) wireless router 85
 lbre-fai.Stanford.EDU PTR
-171.64.144.155 ipv4
-00:50:56:AE:00:2A mac
+ADDR= 171.64.144.155 ipv4
+ADDR= 00:50:56:AE:00:2A mac
 fac-netbackup.Stanford.EDU PTR
-171.64.144.156 ipv4
-00:06:5B:FE:C8:B5 mac
+ADDR= 171.64.144.156 ipv4
+ADDR= 00:06:5B:FE:C8:B5 mac
+OS= Microsoft Windows Server 2003 SP2 100
 testrep60.Stanford.EDU PTR
-171.64.144.157 ipv4
-00:50:56:AE:00:19 mac
+ADDR= 171.64.144.157 ipv4
+ADDR= 00:50:56:AE:00:19 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-arcgis-5.Stanford.EDU PTR
-171.64.144.158 ipv4
-00:50:56:AE:00:29 mac
+ADDR= 171.64.144.158 ipv4
+ADDR= 00:50:56:AE:00:29 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-arcgis-6.Stanford.EDU PTR
-171.64.144.159 ipv4
-00:50:56:AE:00:23 mac
+ADDR= 171.64.144.159 ipv4
+ADDR= 00:50:56:AE:00:23 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-4d2.Stanford.EDU PTR
-171.64.144.161 ipv4
-00:15:C5:EA:97:81 mac
+ADDR= 171.64.144.161 ipv4
+ADDR= 00:15:C5:EA:97:81 mac
+OS= Microsoft Windows Vista 100
+OS= Microsoft Windows Vista Home Basic 100
 lbre-arcgisnew.Stanford.EDU PTR
-171.64.144.162 ipv4
-00:50:56:AE:00:08 mac
+ADDR= 171.64.144.162 ipv4
+ADDR= 00:50:56:AE:00:08 mac
 lbre-oraapp.Stanford.EDU PTR
-171.64.144.163 ipv4
-00:50:56:AE:00:28 mac
+ADDR= 171.64.144.163 ipv4
+ADDR= 00:50:56:AE:00:28 mac
 form1-archives.Stanford.EDU PTR
-171.64.144.164 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 171.64.144.164 ipv4
+ADDR= 00:50:56:AD:48:95 mac
+OS= Linux 2.6.9 - 2.6.26 100
 form1-new.Stanford.EDU PTR
-171.64.144.165 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 171.64.144.165 ipv4
+ADDR= 00:50:56:AD:48:95 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-lpr.Stanford.EDU PTR
-171.64.144.166 ipv4
-00:50:56:AE:00:45 mac
+ADDR= 171.64.144.166 ipv4
+ADDR= 00:50:56:AE:00:45 mac
+OS= Microsoft Windows Vista Home Basic 100
 lbre-boss.Stanford.EDU PTR
-171.64.144.167 ipv4
-00:50:56:AE:00:3E mac
+ADDR= 171.64.144.167 ipv4
+ADDR= 00:50:56:AE:00:3E mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-arcgis-7.Stanford.EDU PTR
-171.64.144.168 ipv4
-00:50:56:AE:00:20 mac
+ADDR= 171.64.144.168 ipv4
+ADDR= 00:50:56:AE:00:20 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-arcgis-8.Stanford.EDU PTR
-171.64.144.169 ipv4
-00:50:56:AE:00:22 mac
+ADDR= 171.64.144.169 ipv4
+ADDR= 00:50:56:AE:00:22 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 form1.Stanford.EDU PTR
-171.64.144.170 ipv4
-00:50:56:AD:17:4D mac
+ADDR= 171.64.144.170 ipv4
+ADDR= 00:50:56:AD:17:4D mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-web3.Stanford.EDU PTR
-171.64.144.171 ipv4
-00:50:56:AE:00:38 mac
+ADDR= 171.64.144.171 ipv4
+ADDR= 00:50:56:AE:00:38 mac
+OS= Linux 2.6.18 - 2.6.24 90
+OS= Linux 2.6.21 (Arch Linux 0.8, x86) 90
+OS= Linux 2.6.18-8.el5 (Red Hat Enterprise Linux 5) 89
+OS= Linux 2.6.22 89
+OS= Linux 2.6.23 89
+OS= OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) 88
+OS= OpenWrt 7.09 (Linux 2.6.22) 88
+OS= Linux 2.6.18.8 (openSUSE 10.2, SMP) 87
+OS= Linux 2.6.9 - 2.6.19 86
+OS= D-Link DSA-3100 or Linksys WRT54GL (DD-WRT v23) wireless router 85
 lbre-custmapdev.Stanford.EDU PTR
-171.64.144.172 ipv4
-00:50:56:AE:00:39 mac
+ADDR= 171.64.144.172 ipv4
+ADDR= 00:50:56:AE:00:39 mac
+OS= Microsoft Windows Vista 100
 lbre-web3-dev.Stanford.EDU PTR
-171.64.144.173 ipv4
-00:50:56:AE:00:3A mac
+ADDR= 171.64.144.173 ipv4
+ADDR= 00:50:56:AE:00:3A mac
+OS= Linux 2.6.18 - 2.6.24 90
+OS= Linux 2.6.21 (Arch Linux 0.8, x86) 90
+OS= Linux 2.6.18-8.el5 (Red Hat Enterprise Linux 5) 89
+OS= Linux 2.6.22 89
+OS= Linux 2.6.23 89
+OS= OpenWrt 7.09 (Linux 2.6.22) 89
+OS= OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) 88
+OS= Linux 2.6.18.8 (openSUSE 10.2, SMP) 87
+OS= Linux 2.6.9 - 2.6.19 86
+OS= D-Link DSA-3100 or Linksys WRT54GL (DD-WRT v23) wireless router 85
 arc-2ks.Stanford.EDU PTR
-171.64.144.177 ipv4
-00:50:56:AE:00:2E mac
+ADDR= 171.64.144.177 ipv4
+ADDR= 00:50:56:AE:00:2E mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-pptest.Stanford.EDU PTR
-171.64.144.178 ipv4
-00:50:56:AE:00:3C mac
+ADDR= 171.64.144.178 ipv4
+ADDR= 00:50:56:AE:00:3C mac
+OS= Microsoft Windows Vista 100
+OS= Microsoft Windows Vista Home Basic 100
 lbre-oraapp2.Stanford.EDU PTR
-171.64.144.183 ipv4
-00:50:56:AE:00:05 mac
+ADDR= 171.64.144.183 ipv4
+ADDR= 00:50:56:AE:00:05 mac
 lbre-custommaps.Stanford.EDU PTR
-171.64.144.184 ipv4
-00:50:56:AE:00:41 mac
+ADDR= 171.64.144.184 ipv4
+ADDR= 00:50:56:AE:00:41 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-edna-db.Stanford.EDU PTR
-171.64.144.186 ipv4
-00:50:56:96:75:34 mac
+ADDR= 171.64.144.186 ipv4
+ADDR= 00:50:56:96:75:34 mac
+OS= Microsoft Windows Vista 100
 lbre-traka.Stanford.EDU PTR
-171.64.144.187 ipv4
-00:50:56:AE:00:1E mac
+ADDR= 171.64.144.187 ipv4
+ADDR= 00:50:56:AE:00:1E mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-sem-hist2.Stanford.EDU PTR
-171.64.144.188 ipv4
-90:B1:1C:41:B9:84 mac
+ADDR= 171.64.144.188 ipv4
+ADDR= 90:B1:1C:41:B9:84 mac
+OS= Microsoft Windows Vista SP0 or SP1, or Windows Server 2008 100
 lbre-sem-col1.Stanford.EDU PTR
-171.64.144.189 ipv4
-90:B1:1C:49:18:D6 mac
+ADDR= 171.64.144.189 ipv4
+ADDR= 90:B1:1C:49:18:D6 mac
+OS= Microsoft Windows Vista 100
 fac-web2.Stanford.EDU PTR
-171.64.144.190 ipv4
-00:14:22:FE:B4:9A mac
+ADDR= 171.64.144.190 ipv4
+ADDR= 00:14:22:FE:B4:9A mac
+OS= Linux 2.6.9 - 2.6.15 (x86) 100
 famis-sunet.Stanford.EDU PTR
-171.64.144.191 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.191 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 maps-secure.Stanford.EDU PTR
-171.64.144.192 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.192 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 basemap.Stanford.EDU PTR
-171.64.144.193 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.193 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 pagegate.Stanford.EDU PTR
-171.64.144.194 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.194 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 fac-wireless.Stanford.EDU PTR
-171.64.144.195 ipv4
-00:14:22:FE:B4:9A mac
+ADDR= 171.64.144.195 ipv4
+ADDR= 00:14:22:FE:B4:9A mac
+OS= Linux 2.6.9 - 2.6.15 (x86) 100
 facilities-ssl.Stanford.EDU PTR
-171.64.144.196 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.196 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 pmplus.Stanford.EDU PTR
-171.64.144.197 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.197 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 fac-netbackup2.Stanford.EDU PTR
-171.64.144.198 ipv4
-00:1E:C9:CD:0C:DD mac
+ADDR= 171.64.144.198 ipv4
+ADDR= 00:1E:C9:CD:0C:DD mac
 lbre-routing.Stanford.EDU PTR
-171.64.144.199 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.199 ipv4
+ADDR= 00:50:56:AE:00:42 mac
+OS= Linux 2.6.22 90
+OS= Linux 2.6.24 88
+OS= Vodavi XTS-IP PBX 88
+OS= Linux 2.6.13 - 2.6.24 88
+OS= Linux 2.6.22 - 2.6.23 88
+OS= Linux 2.4.20 (Red Hat 7.2) 87
+OS= Linux 2.6.17 - 2.6.23 87
+OS= Linux 2.6.18 - 2.6.24 87
+OS= Linux 2.6.21 (Arch Linux 0.8, x86) 87
+OS= Linux 2.6.17 - 2.6.21 87
 lbre-sql-1.Stanford.EDU PTR
-171.64.144.204 ipv4
-00:50:56:AE:00:09 mac
+ADDR= 171.64.144.204 ipv4
+ADDR= 00:50:56:AE:00:09 mac
+OS= Microsoft Windows Vista 98
+OS= Microsoft Windows Vista Home Basic 98
+OS= Microsoft Windows Vista Home Premium 93
+OS= Microsoft Windows Vista Enterprise 89
 fac-4d2.Stanford.EDU PTR
-171.64.144.205 ipv4
-00:0B:DB:E2:AA:6C mac
+ADDR= 171.64.144.205 ipv4
+ADDR= 00:0B:DB:E2:AA:6C mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-ddomain.Stanford.EDU PTR
-171.64.144.206 ipv4
-00:15:17:56:5B:E0 mac
+ADDR= 171.64.144.206 ipv4
+ADDR= 00:15:17:56:5B:E0 mac
 lbre-ddgateway.Stanford.EDU PTR
-171.64.144.207 ipv4
-00:50:56:AD:33:83 mac
+ADDR= 171.64.144.207 ipv4
+ADDR= 00:50:56:AD:33:83 mac
+OS= Linux 2.6.17 - 2.6.25 100
 fac-docmanage.Stanford.EDU PTR
-171.64.144.208 ipv4
-00:13:72:66:E5:C0 mac
+ADDR= 171.64.144.208 ipv4
+ADDR= 00:13:72:66:E5:C0 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 util-fmserver.Stanford.EDU PTR
-171.64.144.209 ipv4
-00:50:56:AD:4C:2F mac
+ADDR= 171.64.144.209 ipv4
+ADDR= 00:50:56:AD:4C:2F mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-intelevent.Stanford.EDU PTR
-171.64.144.210 ipv4
-78:2B:CB:6F:A8:2E mac
+ADDR= 171.64.144.210 ipv4
+ADDR= 78:2B:CB:6F:A8:2E mac
+OS= Microsoft Windows Vista 100
 dpm-backup.Stanford.EDU PTR
-171.64.144.211 ipv4
-00:15:C5:5E:83:92 mac
+ADDR= 171.64.144.211 ipv4
+ADDR= 00:15:C5:5E:83:92 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-cp01.Stanford.EDU PTR
-171.64.144.212 ipv4
-08:9E:01:17:A4:89 mac
+ADDR= 171.64.144.212 ipv4
+ADDR= 08:9E:01:17:A4:89 mac
 lbre-edna-web.Stanford.EDU PTR
-171.64.144.213 ipv4
-00:50:56:96:88:04 mac
+ADDR= 171.64.144.213 ipv4
+ADDR= 00:50:56:96:88:04 mac
+OS= Microsoft Windows Vista Home Basic 100
 fac-emcs-wireless1.Stanford.EDU PTR
-171.64.144.219 ipv4
-00:80:67:81:3A:76 mac
+ADDR= 171.64.144.219 ipv4
+ADDR= 00:80:67:81:3A:76 mac
 fac-esxi-mg.Stanford.EDU PTR
-171.64.144.222 ipv4
-00:14:22:FE:B4:7A mac
+ADDR= 171.64.144.222 ipv4
+ADDR= 00:14:22:FE:B4:7A mac
+OS= FreeNAS 0.686 (FreeBSD 6.2-RELEASE) 100
 fac-esxi-proj.Stanford.EDU PTR
-171.64.144.223 ipv4
-00:19:B9:F6:10:03 mac
+ADDR= 171.64.144.223 ipv4
+ADDR= 00:19:B9:F6:10:03 mac
+OS= FreeNAS 0.686 (FreeBSD 6.2-RELEASE) 100
 fac-web3-dev.Stanford.EDU PTR
-171.64.144.226 ipv4
-00:50:56:AD:1C:A8 mac
+ADDR= 171.64.144.226 ipv4
+ADDR= 00:50:56:AD:1C:A8 mac
+OS= Linux 2.6.9 - 2.6.26 100
 fac-emcs-piweb.Stanford.EDU PTR
-171.64.144.227 ipv4
-00:13:72:54:29:F8 mac
+ADDR= 171.64.144.227 ipv4
+ADDR= 00:13:72:54:29:F8 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-web2.Stanford.EDU PTR
-171.64.144.228 ipv4
-00:50:56:AE:00:42 mac
+ADDR= 171.64.144.228 ipv4
+ADDR= 00:50:56:AE:00:42 mac
 fops-cf-new.Stanford.EDU PTR
-171.64.144.232 ipv4
-00:50:56:AE:00:03 mac
+ADDR= 171.64.144.232 ipv4
+ADDR= 00:50:56:AE:00:03 mac
+OS= Linux 2.6.17 - 2.6.22 100
 lbre-kvm-i25.Stanford.EDU PTR
-171.64.144.234 ipv4
-00:E0:86:0F:B8:3B mac
+ADDR= 171.64.144.234 ipv4
+ADDR= 00:E0:86:0F:B8:3B mac
 lbre-kvm-i26.Stanford.EDU PTR
-171.64.144.235 ipv4
-00:E0:86:0F:B8:5E mac
+ADDR= 171.64.144.235 ipv4
+ADDR= 00:E0:86:0F:B8:5E mac
 goz-srtr-vlan487.Stanford.EDU PTR
-172.24.144.1 ipv4
-00:10:DB:FF:80:80 mac
+ADDR= 172.24.144.1 ipv4
+ADDR= 00:10:DB:FF:80:80 mac
 lbre-bladenc1-drac.Stanford.EDU PTR
-172.24.144.13 ipv4
-00:14:22:FE:55:B3 mac
+ADDR= 172.24.144.13 ipv4
+ADDR= 00:14:22:FE:55:B3 mac
 lbre-bladeenc1-kvm.Stanford.EDU PTR
-172.24.144.14 ipv4
-00:E0:86:05:CB:ED mac
+ADDR= 172.24.144.14 ipv4
+ADDR= 00:E0:86:05:CB:ED mac
 lbre-esxi-4.Stanford.EDU PTR
-172.24.144.15 ipv4
-00:14:22:FE:B3:4E mac
+ADDR= 172.24.144.15 ipv4
+ADDR= 00:14:22:FE:B3:4E mac
 lbre-mapguide-dev.Stanford.EDU PTR
-172.24.144.16 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 172.24.144.16 ipv4
+ADDR= 00:50:56:AD:48:95 mac
 lbre-mapguide-test.Stanford.EDU PTR
-172.24.144.18 ipv4
-00:50:56:AD:48:95 mac
+ADDR= 172.24.144.18 ipv4
+ADDR= 00:50:56:AD:48:95 mac
 scadaweb-drac.Stanford.EDU PTR
-172.24.144.19 ipv4
-A4:BA:DB:38:63:41 mac
+ADDR= 172.24.144.19 ipv4
+ADDR= A4:BA:DB:38:63:41 mac
 lbre-kvm-bonair.Stanford.EDU PTR
-172.24.144.20 ipv4
-00:E0:86:09:91:BB mac
+ADDR= 172.24.144.20 ipv4
+ADDR= 00:E0:86:09:91:BB mac
 lbre-sem-hist1-drac.Stanford.EDU PTR
-172.24.144.23 ipv4
-90:B1:1C:41:82:74 mac
+ADDR= 172.24.144.23 ipv4
+ADDR= 90:B1:1C:41:82:74 mac
 lbre-cf2-dev.Stanford.EDU PTR
-172.24.144.24 ipv4
-00:50:56:AE:00:12 mac
+ADDR= 172.24.144.24 ipv4
+ADDR= 00:50:56:AE:00:12 mac
 lbre-emcs-archrock1.Stanford.EDU PTR
-172.24.144.25 ipv4
-00:0A:9D:F5:0A:3D mac
+ADDR= 172.24.144.25 ipv4
+ADDR= 00:0A:9D:F5:0A:3D mac
 lbre-mirror01-rac.Stanford.EDU PTR
-172.24.144.27 ipv4
-00:25:90:3F:D9:89 mac
+ADDR= 172.24.144.27 ipv4
+ADDR= 00:25:90:3F:D9:89 mac
 lbre-vmh-vdr01.Stanford.EDU PTR
-172.24.144.28 ipv4
-00:1C:23:B8:17:83 mac
+ADDR= 172.24.144.28 ipv4
+ADDR= 00:1C:23:B8:17:83 mac
 lbrehr-temp.Stanford.EDU PTR
-172.24.144.29 ipv4
-00:14:22:FE:B4:90 mac
+ADDR= 172.24.144.29 ipv4
+ADDR= 00:14:22:FE:B4:90 mac
 luepframework-temp.Stanford.EDU PTR
-172.24.144.30 ipv4
-00:14:22:FE:B4:90 mac
+ADDR= 172.24.144.30 ipv4
+ADDR= 00:14:22:FE:B4:90 mac
 lbre-lb1.Stanford.EDU PTR
-172.24.144.31 ipv4
-00:50:56:AE:00:1D mac
+ADDR= 172.24.144.31 ipv4
+ADDR= 00:50:56:AE:00:1D mac
 lbre-lb2.Stanford.EDU PTR
-172.24.144.32 ipv4
-00:50:56:AE:00:2F mac
+ADDR= 172.24.144.32 ipv4
+ADDR= 00:50:56:AE:00:2F mac
 lbre-sesi-1-drac.Stanford.EDU PTR
-172.24.144.33 ipv4
-90:B1:1C:54:77:26 mac
-172.24.144.35 ipv4
+ADDR= 172.24.144.33 ipv4
+ADDR= 90:B1:1C:54:77:26 mac
+ADDR= 172.24.144.35 ipv4
+OS= Linux 2.6.19 - 2.6.20 100
 lbre-sem-hist2-drac.Stanford.EDU PTR
-172.24.144.36 ipv4
-90:B1:1C:41:B9:86 mac
+ADDR= 172.24.144.36 ipv4
+ADDR= 90:B1:1C:41:B9:86 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-sem-col1-drac.Stanford.EDU PTR
-172.24.144.37 ipv4
-90:B1:1C:49:18:D8 mac
+ADDR= 172.24.144.37 ipv4
+ADDR= 90:B1:1C:49:18:D8 mac
+OS= Linux 2.6.9 - 2.6.26 100
 bondata4-bmc.Stanford.EDU PTR
-172.24.144.52 ipv4
-00:14:22:75:09:09 mac
+ADDR= 172.24.144.52 ipv4
+ADDR= 00:14:22:75:09:09 mac
 bondata2-drac.Stanford.EDU PTR
-172.24.144.53 ipv4
-60:EB:69:DC:3D:2B mac
-172.24.144.70 ipv4
-00:15:C5:87:6B:5F mac
+ADDR= 172.24.144.53 ipv4
+ADDR= 60:EB:69:DC:3D:2B mac
+OS= Linux 2.6.9 - 2.6.26 100
+ADDR= 172.24.144.70 ipv4
+ADDR= 00:15:C5:87:6B:5F mac
 lbre-vmh-vdr01-drac.Stanford.EDU PTR
-172.24.144.87 ipv4
-00:1C:23:B8:17:87 mac
+ADDR= 172.24.144.87 ipv4
+ADDR= 00:1C:23:B8:17:87 mac
+OS= Linux 2.4.18 - 2.4.32 (likely embedded) 100
 lbre-vmh01.Stanford.EDU PTR
-172.24.144.126 ipv4
-00:50:56:4E:AC:72 mac
+ADDR= 172.24.144.126 ipv4
+ADDR= 00:50:56:4E:AC:72 mac
+OS= Linux 2.6.21 (Arch Linux 0.8, x86) 96
+OS= Linux 2.6.9 - 2.6.19 96
+OS= Linux 2.6.18-8.el5 (Red Hat Enterprise Linux 5) 96
+OS= Linux 2.6.23 95
+OS= Adaptec Snap Server 520 NAS device, Fortinet FortiGate-60 firewall, Linksys NSLU2 NAS device running Unslung 5.8 (Linux 2.4.22), Netgear SPH200D VoIP phone, Secure Computing SnapGear SG565 firewall (Linux 2.4.31-uc0), or VMware ESX Enterprise Server 3.5 95
+OS= Linux 2.6.19 - 2.6.24 (Gentoo) 95
+OS= T-Home Speedport W 501V WAP 95
+OS= MikroTik RouterOS software router 3.0beta5 94
+OS= Linux 2.6.18 - 2.6.24 94
+OS= OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) 94
 lbre-vmh02.Stanford.EDU PTR
-172.24.144.127 ipv4
-00:26:B9:2B:5F:70 mac
+ADDR= 172.24.144.127 ipv4
+ADDR= 00:26:B9:2B:5F:70 mac
 lbre-vmh03.Stanford.EDU PTR
-172.24.144.128 ipv4
-00:24:E8:80:84:AC mac
+ADDR= 172.24.144.128 ipv4
+ADDR= 00:24:E8:80:84:AC mac
 lbre-vmh04.Stanford.EDU PTR
-172.24.144.129 ipv4
-00:24:E8:80:9F:AB mac
-172.24.144.130 ipv4
-00:0C:29:E6:B7:F2 mac
+ADDR= 172.24.144.129 ipv4
+ADDR= 00:24:E8:80:9F:AB mac
+ADDR= 172.24.144.130 ipv4
+ADDR= 00:0C:29:E6:B7:F2 mac
+OS= Microsoft Windows Server 2003 SP1 or SP2 100
 lbre-esxi-vc1.Stanford.EDU PTR
-172.24.144.131 ipv4
-00:19:B9:F6:23:95 mac
+ADDR= 172.24.144.131 ipv4
+ADDR= 00:19:B9:F6:23:95 mac
 lbre-vmh05.Stanford.EDU PTR
-172.24.144.132 ipv4
-00:24:E8:80:A3:38 mac
+ADDR= 172.24.144.132 ipv4
+ADDR= 00:24:E8:80:A3:38 mac
 lbre-vmh06.Stanford.EDU PTR
-172.24.144.133 ipv4
-78:2B:CB:25:80:00 mac
+ADDR= 172.24.144.133 ipv4
+ADDR= 78:2B:CB:25:80:00 mac
 lbre-vmh07.Stanford.EDU PTR
-172.24.144.134 ipv4
-78:2B:CB:2D:61:06 mac
+ADDR= 172.24.144.134 ipv4
+ADDR= 78:2B:CB:2D:61:06 mac
 lbre-vmh08.Stanford.EDU PTR
-172.24.144.135 ipv4
-D4:AE:52:B5:84:C1 mac
+ADDR= 172.24.144.135 ipv4
+ADDR= D4:AE:52:B5:84:C1 mac
+OS= FreeBSD 5.2.1-RELEASE 93
+OS= FreeBSD 5.4 or 5.5 (x86) 93
+OS= FreeNAS (FreeBSD 6.3-STABLE) 93
+OS= FreeNAS 0.686 (FreeBSD 6.2-RELEASE) 93
+OS= FreeBSD 5.1 91
+OS= FreeBSD 7.0-BETA4 - 7.0 91
+OS= FreeBSD 7.0-RELEASE-p1 - 7.0-STABLE 91
+OS= FreeBSD 7.0-CURRENT (pre-release) 90
+OS= FreeBSD 7.0-PRERELEASE 90
+OS= FreeBSD 7.0-RELEASE-p2 90
 lbre-archive-drac.Stanford.EDU PTR
-172.24.144.139 ipv4
-00:1C:23:B8:15:EC mac
+ADDR= 172.24.144.139 ipv4
+ADDR= 00:1C:23:B8:15:EC mac
+OS= Linux 2.4.18 - 2.4.32 (likely embedded) 100
 lbre-vc2-drac.Stanford.EDU PTR
-172.24.144.149 ipv4
-90:B1:1C:46:96:9F mac
+ADDR= 172.24.144.149 ipv4
+ADDR= 90:B1:1C:46:96:9F mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-vmh-vc2.Stanford.EDU PTR
-172.24.144.151 ipv4
-90:B1:1C:46:96:9D mac
+ADDR= 172.24.144.151 ipv4
+ADDR= 90:B1:1C:46:96:9D mac
+OS= FreeBSD 5.2.1-RELEASE 93
+OS= FreeBSD 5.4 or 5.5 (x86) 93
+OS= FreeNAS (FreeBSD 6.3-STABLE) 93
+OS= FreeNAS 0.686 (FreeBSD 6.2-RELEASE) 93
+OS= FreeBSD 5.1 91
+OS= FreeBSD 7.0-BETA4 - 7.0 91
+OS= FreeBSD 7.0-RELEASE-p1 - 7.0-STABLE 91
+OS= FreeBSD 7.0-CURRENT (pre-release) 90
+OS= FreeBSD 7.0-PRERELEASE 90
+OS= FreeBSD 7.0-RELEASE-p2 90
 lbre-4d1-drac.Stanford.EDU PTR
-172.24.144.153 ipv4
-90:B1:1C:09:40:AD mac
+ADDR= 172.24.144.153 ipv4
+ADDR= 90:B1:1C:09:40:AD mac
 lbre-pagegate-drac.Stanford.EDU PTR
-172.24.144.180 ipv4
-90:B1:1C:17:F5:F6 mac
+ADDR= 172.24.144.180 ipv4
+ADDR= 90:B1:1C:17:F5:F6 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-vc2.Stanford.EDU PTR
-172.24.144.182 ipv4
-00:0C:29:CD:F6:86 mac
+ADDR= 172.24.144.182 ipv4
+ADDR= 00:0C:29:CD:F6:86 mac
 lbre-traka-333bonair.Stanford.EDU PTR
-172.24.144.187 ipv4
-00:20:4A:C8:BC:25 mac
-172.24.144.198 ipv4
-00:1E:C9:CD:0C:DD mac
+ADDR= 172.24.144.187 ipv4
+ADDR= 00:20:4A:C8:BC:25 mac
+ADDR= 172.24.144.198 ipv4
+ADDR= 00:1E:C9:CD:0C:DD mac
 nas01-ct1.Stanford.EDU PTR
-172.24.144.200 ipv4
-00:A0:98:25:3A:C5 mac
+ADDR= 172.24.144.200 ipv4
+ADDR= 00:A0:98:25:3A:C5 mac
+OS= NetApp FAS3020 or FAS 3040 NAS device (Data ONTAP 7.0.X - 7.2.X) 100
 nas01-ct2.Stanford.EDU PTR
-172.24.144.201 ipv4
-00:A0:98:25:B9:91 mac
+ADDR= 172.24.144.201 ipv4
+ADDR= 00:A0:98:25:B9:91 mac
+OS= NetApp FAS3020 or FAS 3040 NAS device (Data ONTAP 7.0.X - 7.2.X) 100
 nas01-ct1-bmc.Stanford.EDU PTR
-172.24.144.202 ipv4
-00:A0:98:25:3A:C1 mac
+ADDR= 172.24.144.202 ipv4
+ADDR= 00:A0:98:25:3A:C1 mac
 nas01-ct2-bmc.Stanford.EDU PTR
-172.24.144.203 ipv4
-00:A0:98:25:B9:8D mac
+ADDR= 172.24.144.203 ipv4
+ADDR= 00:A0:98:25:B9:8D mac
 lbre-intelevent-drac.Stanford.EDU PTR
-172.24.144.210 ipv4
-78:2B:CB:6F:A8:30 mac
+ADDR= 172.24.144.210 ipv4
+ADDR= 78:2B:CB:6F:A8:30 mac
 lbre-cp01-drac.Stanford.EDU PTR
-172.24.144.212 ipv4
-08:9E:01:17:A4:8B mac
+ADDR= 172.24.144.212 ipv4
+ADDR= 08:9E:01:17:A4:8B mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-vmh01-drac.Stanford.EDU PTR
-172.24.144.226 ipv4
-00:24:E8:80:A9:D7 mac
+ADDR= 172.24.144.226 ipv4
+ADDR= 00:24:E8:80:A9:D7 mac
 lbre-vmh03-drac.Stanford.EDU PTR
-172.24.144.228 ipv4
-00:24:E8:80:84:B4 mac
+ADDR= 172.24.144.228 ipv4
+ADDR= 00:24:E8:80:84:B4 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-vmh05-drac.Stanford.EDU PTR
-172.24.144.232 ipv4
-00:24:E8:80:A3:40 mac
+ADDR= 172.24.144.232 ipv4
+ADDR= 00:24:E8:80:A3:40 mac
 lbre-vmh06-drac.Stanford.EDU PTR
-172.24.144.233 ipv4
-78:2B:CB:25:80:02 mac
+ADDR= 172.24.144.233 ipv4
+ADDR= 78:2B:CB:25:80:02 mac
 lbre-vmh07-drac.Stanford.EDU PTR
-172.24.144.234 ipv4
-78:2B:CB:2D:61:08 mac
+ADDR= 172.24.144.234 ipv4
+ADDR= 78:2B:CB:2D:61:08 mac
+OS= Linux 2.6.9 - 2.6.26 100
 lbre-vmh08-drac.Stanford.EDU PTR
-172.24.144.235 ipv4
-24:B6:FD:FA:0D:E6 mac
-
+ADDR= 172.24.144.235 ipv4
+ADDR= 24:B6:FD:FA:0D:E6 mac
+OS= Linux 2.6.9 - 2.6.26 100
